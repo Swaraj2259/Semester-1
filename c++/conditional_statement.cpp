@@ -50,16 +50,73 @@ using namespace std;
 //     }
 //     cout<<sum<<endl;
 // }
+
 // sum of 1 to n odd numbers
-int main(){
-    int n=5;
-    int i=1;
-    int sum=0;
-    for(int i=1;i<=n;i+=2){
-        sum+=i;
-    }
-    cout<<sum<<endl;
-}
+// int main(){
+//     int n=3;
+//     // int i=1;
+//     int sum=0;
+//     for(int i=1;i<=n;i+=2){
+//         sum+=i;
+//     }
+//     cout<<sum<<endl;
+// }
+
+// check the prime number
+// int main(){
+//     int n=19;
+//     bool isprime = true;
+//     for (int i=2;i<=n-1;i++){
+//         if  (n%i==0){
+//             isprime=false;
+//             break;
+//         }
+//     }
+//     if (isprime){
+//         cout<<"prime number"<<endl;
+//     } else {
+//         cout<<"not a prime number"<<endl;
+//     }
+// }
+
+// int main(){
+//     int n=8;
+//     for (int i=1 ; i<=n; i++){
+//         int m = 10;
+//         for (int i=1 ; i<=m; i++){
+//             cout<<"*";
+//         }
+//         cout<<endl;
+//     }
+// }
+
+
+// #include<iostream>
+// using namespace std;
+// int main(){
+//     int n=10;
+    
+//     int sum=0;
+//     for(int i=1;i<=n;i+=2){
+//     sum+=i;
+//     }
+//     cout<<sum<<endl;
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
